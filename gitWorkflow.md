@@ -46,14 +46,14 @@
 >## Why should we choose *git workflow*?  
 >### 1. compare with *SVN*   
 >* *SVN*:  
->![image](https://github.com/199ChenNuo/SoftwareBestPractice/blob/master/SVN.jpg, "SVN")
+>![SVN](https://github.com/199ChenNuo/SoftwareBestPractice/blob/master/SVN.jpg)
 >   * repository-center  
 >   * hard to observe present version/branch  
 >   * hard to find others' commit   
 >   * a global version number  
 >   * friendly to Chinese(languae)  
 >* git:  
->![image](https://github.com/199ChenNuo/SoftwareBestPractice/blob/master/GIT.jpg, "git")
+>![image](https://github.com/199ChenNuo/SoftwareBestPractice/blob/master/GIT.jpg)
 >   * distributed  
 >   * obvious version/branch  
 >   * easy to find new commit and merge them  

@@ -53,7 +53,7 @@
 >   * a global version number  
 >   * friendly to Chinese(languae)  
 >* git:  
->![image](https://github.com/199ChenNuo/SoftwareBestPractice/blob/master/git.jpg, "git")
+>![image](https://github.com/199ChenNuo/SoftwareBestPractice/blob/master/GIT.jpg, "git")
 >   * distributed  
 >   * obvious version/branch  
 >   * easy to find new commit and merge them  

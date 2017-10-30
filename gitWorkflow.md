@@ -17,6 +17,7 @@
 >*  Different branches are created for different uses or versions.  
 >* When new pull down, new branches will be merged into appropriate branches and be deleted.  
 >### 2. regualtions for branches
+>![image](https://github.com/199ChenNuo/SoftwareBestPractice/blob/master/branches.jpg)
 >* *master*  
 >   * Long time branch  
 >   * This branch stores the product which is released to users, and suppose to be steady.  

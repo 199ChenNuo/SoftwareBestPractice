@@ -12,7 +12,7 @@
 
 >## How does *git workflow* works
     >### 1. *branches* and *merge*  
-        >* A *branch* stores a perticular version for the project.  
+        >* A *branch* stores a perticular version for the product. 
         >*  When *merge* is done between two branches, one branch merges into the other(replaced by the former one).  
         >*  Different branches are created for different uses or versions.  
         >* When new pull down, new branches will be merged into appropriate branches and be deleted.  
@@ -44,4 +44,16 @@
 ****
 
 >## Why should we choose *git workflow*?  
-    >### 1. compare with *SVN*
+    >### 1. compare with *SVN*   
+        >* *SVN*:  
+            >   * repository-center  
+            >   * hard to observe present version/branch  
+            >   * hard to find others' commit   
+            >   * a global version number  
+            >   * friendly to Chinese(languae)  
+        >* git:  
+            >   * distributed  
+            >   * obvious version/branch  
+            >   * easy to find new commit and merge them  
+            >   * ability to manage branches  
+
